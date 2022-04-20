@@ -43,4 +43,4 @@ class Formula {
         double l = Math.sqrt(x * x + y * y + z * z);
         System.out.println(l);
     }
-}м
+}
